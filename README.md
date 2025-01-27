@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @enzo-mensier
-- 👀 I’m interested in web development and cybersecurity
+- 👀 I’m interested in web development and in computer science in  general
 - 🌱 I’m currently in two year training in computer science
 - 📫 My e-mail : enzo.mensier@gmail.com
