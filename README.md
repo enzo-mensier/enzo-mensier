@@ -54,9 +54,9 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzo-mensier&show_icons=true&border_color=000000&bg_color=ffffff&title_color=ff3377&text_color=434d58&icon_color=3498db&border_radius=10&line_height=30&custom_title=🚀%20Mes%20Stats%20GitHub&ring_color=ff3377)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzo-mensier&show_icons=true&border_color=000000&bg_color=ffffff&title_color=ff3377&text_color=434d58&icon_color=3498db&border_radius=10&line_height=30&custom_title=GitHub%20Activity)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=enzo-mensier&show_icons=true&locale=fr&layout=compact&border_color=000000&bg_color=ffffff&title_color=ff3377&text_color=434d58&border_radius=10&custom_title=💻%20Mes%20Langages%20les%20Plus%20Utilisés)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=enzo-mensier&show_icons=true&locale=en&layout=compact&border_color=000000&bg_color=ffffff&title_color=ff3377&text_color=434d58&border_radius=10&custom_title=Most%20Used%20Languages)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enzo-mensier&theme=default&border=000000&background=ffffff&ring=ff3377&fire=ff3377&currStreakLabel=ff3377)
 
