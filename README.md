@@ -36,6 +36,6 @@ A passionate frontend developer from France
 
 ## Stats
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=enzo-mensier&show_icons=true&border_color=000000&bg_color=ffffff&title_color=ff3377&text_color=434d58&icon_color=3498db&border_radius=10&line_height=30&custom_title=GitHub%20Activity" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=enzo-mensier&show_icons=true&locale=en&layout=compact&border_color=000000&bg_color=ffffff&title_color=ff3377&text_color=434d58&border_radius=10&custom_title=Most%20Used%20Languages&langs_count=5" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=enzo-mensier&show_icons=true&border_color=000000&bg_color=ffffff&title_color=ff3377&text_color=434d58&icon_color=3498db&border_radius=10&line_height=30&custom_title=GitHub%20Activity" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=enzo-mensier&show_icons=true&locale=en&layout=compact&border_color=000000&bg_color=ffffff&title_color=ff3377&text_color=434d58&border_radius=10&custom_title=Most%20Used%20Languages&langs_count=5" />
 </div>
