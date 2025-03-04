@@ -46,6 +46,6 @@
 
 ## 📊 Stats
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=enzo-mensier&show_icons=true&line_height=30&custom_title=GitHub%20Activity" alt="GitHub Activity" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=enzo-mensier&show_icons=true&locale=en&layout=compact&custom_title=Most%20Used%20Languages&langs_count=4" alt="Most Used Languages" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=enzo-mensier&show_icons=true&border_color=000000&bg_color=ffffff&title_color=ff3377&text_color=434d58&icon_color=3498db&border_radius=10&line_height=30&custom_title=GitHub%20Activity" alt="GitHub Activity" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=enzo-mensier&show_icons=true&locale=en&layout=compact&border_color=000000&bg_color=ffffff&title_color=ff3377&text_color=434d58&border_radius=10&custom_title=Most%20Used%20Languages&langs_count=4" alt="Most Used Languages" />
 </div>
