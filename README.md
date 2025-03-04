@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi 👋, i'm Enzo<br>A passionate frontend developer from France 🇫🇷
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/enzo-mensier/) 
 
@@ -12,11 +11,9 @@ Hi 👋, i'm Enzo<br>A passionate frontend developer from France 🇫🇷
 ![](https://nirzak-streak-stats.vercel.app/?user=enzo-mensier&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-mensier&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<hr>
+
 ### ✍️ Random Dev Quote
-> « Il y a 10 sortes de personnes dans le monde : Ceux qui connaissent le binaire et ceux qui ne le connaissent pas. »
 
-<hr>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=enzo-mensier&limit=5&theme=default&combine_all_yearly_contributions=true)
+<blockquote style="background-color: #f0f0f0; padding: 20px; border-radius: 5px; font-style: italic; border-left: 5px solid #ccc;">
+  Il y a 10 types d'humains, ce qui connaissent le binaire et les autres.
+</blockquote>
