@@ -25,12 +25,19 @@ Je m'appelle **ozuǝ ɹǝısuǝɯ**. et oui, je suis un junior, mon nom est un p
   </a>
 </p>
          
-### <p align="center">Languages and Tools :</p>
+### <p align="center">Langage & Framework</p>
+
+<p align="center">
+  <a href="https://mensierenzo.netlify.app">
+    <img src="https://skillicons.dev/icons?i=html,css,php,js,mysql,py,flutter,dart,cpp,c,nodejs" />    
+  </a>
+</p>
+
+### <p align="center">Outils & IDE :</p>
 
 <p align="center">
   <a href="https://mensierenzo.netlify.app">
     <img src="https://skillicons.dev/icons?i=git,github,linux,arduino,androidstudio,vscode,windows,raspberrypi,grafana,notion" />
-    <img src="https://skillicons.dev/icons?i=html,css,php,js,mysql,py,flutter,dart,cpp,c,nodejs" />    
   </a>
 </p>
 
